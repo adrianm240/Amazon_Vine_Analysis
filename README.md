@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Project Overview
-The purpose of this project is to analyze Amazon reviews written by members of the paid Vine program by creating an ETL pipeline. After obtaining my dataset, I stored it in an Amazon S3 bucket and then used Python PySpark to extract/transform the data, connected to an AWS RDS instance, and loaded the transformed data into a pgAdmin SQL database. I then used PySpark to analyze the data to determine if any bias existed towards favorable reviews from Vine members.
+The purpose of this project is to analyze Amazon reviews written by members of the paid Vine program by creating an ETL pipeline. After obtaining my dataset, I stored it in an Amazon S3 bucket and then used Python PySpark to extract/transform the data, connect it to an AWS RDS instance, and loaded the transformed data into a pgAdmin SQL database. I then used PySpark to analyze the data to determine if any bias existed towards favorable reviews from Vine members.
 
 ## Project Results
 - There were 90 Vine reviews and 37,831 none-Vine reviews.
