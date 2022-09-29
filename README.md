@@ -5,13 +5,21 @@ The purpose of this project is to analyze Amazon reviews written by members of t
 ## Project Results
 - There were 90 Vine reviews and 37,831 none-Vine reviews.
 
+![](Resources/paid_reviews.png)
+
+![](Resources/unpaid_reviews.png)
 
 - There were 44 5-star Vine reviews and 14,704 5-star non-Vine reviews.
 
+![](Resources/five_star_paid.png)
+
+![](Resources/five_star_unpaid.png)
 
 - 48.89% of Vine reviews contained 5-stars and 38.87% of non-Vine reviews contained 5-star reviews.
 
+![](Resources/five_star_paid_percent.png)
 
+![](Resources/five_star_unpaid_percent.png)
 
 ## Project Summary
 - The Vine member reviews had an approximately 10% higher percentage of 5-star reviews than non-Vibe members, indicating a possible positivity bias.
